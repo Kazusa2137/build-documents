@@ -9,3 +9,9 @@
 | トップ基盤  | 1 | ![IMG_0543](https://github.com/Kazusa2137/build-documents/assets/118288076/cfef7192-7332-49a5-8b06-ffcdce1e7c9f) |  |
 | ミドル基盤  | 1 | ![IMG_0542](https://github.com/Kazusa2137/build-documents/assets/118288076/a5d69e1a-8f6e-46eb-8aa1-ea99ca2602d9) |  |
 | ボトム基盤 | 1 | ![IMG_0545](https://github.com/Kazusa2137/build-documents/assets/118288076/e6018fce-0373-4e88-8d98-8557048009b0) |  |
+| スルーホールダイオード | 65 |  |  |
+| スタビライザー(2U) | 2 |  |  |
+| スタビライザー(3U) | 1 |  |  |
+| Promicro | 1 |  |  |
+| リセットスイッチ | 1 |  |  |
+|  |  |  |  |
