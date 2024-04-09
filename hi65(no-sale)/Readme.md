@@ -12,6 +12,6 @@
 | スルーホールダイオード | 65 | ![IMG_0549](https://github.com/Kazusa2137/build-documents/assets/118288076/72aaf389-bcea-4f4a-87b3-359fe60ce2c8) |  |
 | スタビライザー(2u) | 2 | Noimage |  |
 | スタビライザー(3u) | 1 | Noimage | 3uのスタビライザーはなかなか売っていなかった遊舎工房でバーの部分だけ売られていたので2uのやつ分解し組み立てました |
-| Promicro | 1 |  |  |
+| Promicro | 1 | ![IMG_0554](https://github.com/Kazusa2137/build-documents/assets/118288076/c59e0dbf-3004-469c-83a7-20498da8deec) |  |
 | リセットスイッチ | 1 |  |  |
 |  |  |  |  |
